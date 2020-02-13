@@ -81,7 +81,7 @@ int main(int argc, char **argv)
   while (ros::ok())
  {
   //  # Check if goal has published.
-   if (controller.goal_available_)
+//    if (controller.goal_available_)
    {
     //  # if goal is available, move the robot
      // TODO
